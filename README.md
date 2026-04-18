@@ -1,10 +1,15 @@
-👋 Hi, I’m @nexordev
+# 👋 Hi, I’m @nexordev
 
-💻 Python Developer  
-🚀 Building skills in web & software engineering  
+💻 **Python Developer**  
+🚀 Building skills in **Web Development** and **Software Engineering**
 
-🧠 Learning every day:
-• Full-Stack Development  
-• Systems & Networks  
+---
 
-⚡ Code. Build. Solve. Repeat.
+## 🧠 Currently Learning
+- Full-Stack Development  
+- Systems & Networks  
+
+---
+
+## ⚡ Mindset
+> Code. Build. Solve. Repeat.
