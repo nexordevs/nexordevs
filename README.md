@@ -19,7 +19,7 @@ class NexorDev:
     def execute(self):
         while True:
             code()
-            build()
+            improve()
             repeat()
 
 me = NexorDev()
@@ -49,7 +49,7 @@ me = NexorDev()
 
 ## 🌑 Terminal
 
-``bash id="hack2"
+```bash id="hack2"
 > initializing...
 > loading modules...
 > python mode activated
