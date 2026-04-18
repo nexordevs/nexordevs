@@ -42,7 +42,7 @@ tech_stack = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexordev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nexordev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=0d1117&cache_seconds=0"/>
 </p>
 
 <p align="center">
