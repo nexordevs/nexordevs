@@ -1,15 +1,10 @@
-## 👋 Hi, I’m @nexordev
+👋 Hi, I’m @nexordev
 
-- ⚛️💻 I’m interested in tech, development web and software (:
-- 👾👩🏻‍💻 My main goal is to become an Developer Web and Software Engineer
+💻 Python Developer  
+🚀 Building skills in web & software engineering  
 
-## Knowledge n Study
+🧠 Learning every day:
+• Full-Stack Development  
+• Systems & Networks  
 
-- 🕵🏻‍♀️ Full-Stack Web Developer and Software Enginner (course)
-- 💻 Operating Systems
-- 🌐 Computer Networks
-
-
-
-
-
+⚡ Code. Build. Solve. Repeat.
