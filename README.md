@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF"/>
+  <a href='https://github.com/nexordevs'><img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF"/></a>
   <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </p>
 
