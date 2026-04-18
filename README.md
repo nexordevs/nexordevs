@@ -42,8 +42,13 @@ tech_stack = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexordev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=0d1117&cache_seconds=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nexordev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=0d1117&cache_seconds=0"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexordev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&text_color=FFFFFF&border_color=0d1117"/>
 </p>
+
+
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordev&theme=tokyonight&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
