@@ -49,16 +49,13 @@ me = NexorDev()
 
 ## 🌑 Terminal
 
-```html
-<div style="background-color:#0d1117; color:#00ff9c; padding:15px; border-radius:10px; font-family:monospace;">
-
-> initializing...<br>
-> loading modules...<br>
-> python mode activated<br>
-> building real skills...<br>
-> status: online █
-
-</div>
+``bash id="hack2"
+> initializing...
+> loading modules...
+> python mode activated
+> building real skills...
+> status: online
+```
 
 ---
 
