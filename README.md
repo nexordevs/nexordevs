@@ -1,75 +1,64 @@
-# <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+nexordev;Python+Developer;Code.+Build.+Solve.+Repeat." />
+# <p align="center">nexordev</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Python+Developer;System.out.println('building');while(true){code();}" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Identity
 
-```python
+```python id="hack1"
 class NexorDev:
 
     def __init__(self):
-        self.name = "nexordev"
         self.role = "Python Developer"
-        self.focus = ["Web Development", "Software Engineering"]
-        self.learning = ["Full-Stack", "Systems", "Networks"]
+        self.mode = "build > learn > repeat"
+        self.stack = ["Python", "Git", "GitHub"]
 
-    def mindset(self):
-        return "Code. Build. Solve. Repeat."
+    def execute(self):
+        while True:
+            code()
+            improve()
+            repeat()
 
 me = NexorDev()
 ```
 
 ---
 
-## ⚡ Tech Stack
-
-```python
-tech_stack = {
-    "language": "Python",
-    "tools": ["Git", "GitHub"],
-    "focus": ["Backend", "Automation", "Learning"]
-}
-```
-
----
-
-## 📊 GitHub Stats
+## ⚡ Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexordev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordev&theme=tokyonight&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Current Mission
+## 📊 Activity
 
-```python
-def mission():
-    while True:
-        code()
-        build()
-        solve()
-        improve()
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nexordev&show_icons=true&theme=tokyonight&bg_color=05080f&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=05080f&cache_seconds=0"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordev&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+</p>
+
+---
+
+## 🌑 Terminal
+
+```bash id="hack2"
+> initializing...
+> loading modules...
+> python mode activated
+> building real skills...
+> status: online
 ```
 
 ---
 
-## 🌌 Philosophy
-
-> “Stay consistent. Stay dangerous. Keep coding.”
-
----
-
 <p align="center">
-  ⚡ nexordev ⚡
+  ⚡ code. build. repeat. ⚡
 </p>
