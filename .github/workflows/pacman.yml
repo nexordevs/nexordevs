@@ -1,4 +1,4 @@
-name: Matrix Hacker Animation
+name: Pacman Contribution
 
 on:
   schedule:
@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Matrix Snake
+      - name: Generate Pacman animation
         uses: Platane/snk@v3
         with:
           github_user_name: nexordevs
           outputs: |
-            dist/matrix.svg?palette=github-dark&color_snake=00F7FF&color_dots=0:05080f,0.25:001f2f,0.5:003f5c,0.75:00aaff,1:00F7FF
+            dist/pacman.svg?palette=github-dark&color_snake=FFD700&color_dots=#05080f,#1a1a2e,#16213e,#0f3460,#00F7FF
 
-      - name: Deploy to output branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
