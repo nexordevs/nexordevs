@@ -66,7 +66,7 @@ me = NexorDevs()
 
 --- 
 
-<h2 align="center">## 🐍 Contributions</h2>
+<h2 align="center">🐍 Contributions</h2>
 
 <p align="center">
   <img src="https://github.com/nexordevs/nexordevs/blob/output/github-contribution-grid-snake-dark.svg" />
