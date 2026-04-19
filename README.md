@@ -45,6 +45,11 @@ me = NexorDev()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordevs&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexordevs
+    &layout=compact&langs_count_commits=true&count=16&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
 ---
 
 ## 🌑 Terminal
