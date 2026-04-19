@@ -66,6 +66,11 @@ me = NexorDevs()
 
 ---
 
+## 🐍 Contributions
+
+![snake](https://github.com/nexordevs/nexordevs/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 <p align="center">
   ⚡ code. build. repeat. ⚡
 </p>
