@@ -1,4 +1,4 @@
-# <p align="center">nexordev</p>
+# <p align="center">nexordevs</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Python+Developer;System.out.println('building');while(true){code();}" />
@@ -45,10 +45,6 @@ me = NexorDev()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordevs&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexordevs
-    &layout=compact&langs_count_commits=true&count=16&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
 
 ---
 
