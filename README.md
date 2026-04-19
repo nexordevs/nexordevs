@@ -64,12 +64,13 @@ me = NexorDevs()
 > status: online
 ```
 
----
+--- 
 
-## 🐍 Contributions
+<h2 align="center">## 🐍 Contributions</h2>
 
-![snake](https://github.com/nexordevs/nexordevs/blob/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://github.com/nexordevs/nexordevs/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
   ⚡ code. build. repeat. ⚡
