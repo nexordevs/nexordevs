@@ -69,7 +69,7 @@ me = NexorDevs()
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nexordevs/nexordevs/output/matrix.svg" />
+  <img src="https://raw.githubusercontent.com/nexordevs/nexordevs/output/pacman.svg">
 </p>
 
 <p align="center">
