@@ -9,7 +9,7 @@
 ## 🧠 Identity
 
 ```python id="hack1"
-class NexorDev:
+class NexorDevs:
 
     def __init__(self):
         self.role = "Python Developer"
@@ -22,7 +22,7 @@ class NexorDev:
             improve()
             repeat()
 
-me = NexorDev()
+me = NexorDevs()
 ```
 
 ---
