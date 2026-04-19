@@ -45,6 +45,12 @@ me = NexorDev()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordevs&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </p>
 
+<h3 align="center"> Tech Stack Dominante</h3>
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexordevs&layout=compact&theme=tokyonight&bg_color=05080f&title_color=00F7FF&text_color=00F7FF&hide_title=true"/>
+
+</p>
+
 
 ---
 
