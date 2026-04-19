@@ -1,4 +1,4 @@
-name: 🐍 Cyberpunk Snake
+name: 🐍 Neon Snake
 
 on:
   schedule:
@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: ⚡ Generate Cyberpunk Snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: nexordevs
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#1f2428,#161B22,#00F7FF,#7C3AED,#00F7FF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#3a0ca3,#7209b7,#00F7FF,#7C3AED,#00F7FF
 
-      - name: 🚀 Deploy to output branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
