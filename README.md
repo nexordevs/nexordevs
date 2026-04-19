@@ -38,11 +38,11 @@ me = NexorDev()
 ## 📊 Activity
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nexordev&show_icons=true&theme=tokyonight&bg_color=05080f&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=05080f&cache_seconds=0"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nexordevs&show_icons=true&theme=tokyonight&bg_color=05080f&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=05080f&cache_seconds=0"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordev&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexordevs&theme=tokyonight&background=05080f&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </p>
 
 ---
