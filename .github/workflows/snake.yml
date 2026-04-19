@@ -1,4 +1,4 @@
-name: Generate Snake
+name: 🐍 Hacker Snake
 
 on:
   schedule:
@@ -13,15 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: ⚡ Generate Neon Snake
         uses: Platane/snk@v3
         with:
           github_user_name: nexordevs
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00F7FF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00F7FF&color_dots=#0d1117,#0d1117,#00F7FF,#00F7FF,#00F7FF
 
-      - name: Push to output branch
+      - name: 🚀 Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
