@@ -19,7 +19,7 @@ class NexorDevs:
     def execute(self):
         while True:
             code()
-            improve()
+            build()
             repeat()
 
 me = NexorDevs()
